@@ -1,5 +1,5 @@
 # CTCB (Classification of Toxigenic CyanoBacterial genera)
-Automated identification of toxigenic cyanobacterial genera for quality control purposes =>  [Paper Link](https://github.com/iman2693/CTCB)
+Automated identification of toxigenic cyanobacterial genera for quality control purposes =>  [Paper Link](https://www.sciencedirect.com/science/article/pii/S030147972401260X?dgcid=author)
 ## Introduction :
 This repository is for introducing and sharing the TCB dataset and codes were used in the [paper](https://github.com/iman2693/CTCB). 
 
